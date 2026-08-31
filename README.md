@@ -12,6 +12,10 @@ Built a PyTorch neural network that predicts anaemia using haemoglobin levels an
 
 Developed a Python program that cleans and analyzes data from more than 2,600 NFL games. The program calculates team win percentages, compares team performance, identifies high-scoring games, and analyzes head-to-head records.
 
+### Two Player Chess
+
+Built a browser-based two-player chess game from scratch using HTML, CSS, and  JavaScript. Implemented legal move validation, king safety, check and checkmate detection, stalemate, castling, en passant, pawn promotion, captured-piece tracking, and move history.
+
 ## Technical Skills
 
 - **Languages:** Python, Java
