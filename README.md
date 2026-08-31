@@ -20,7 +20,7 @@ Built a browser-based two-player chess game from scratch using HTML, CSS, and  J
 
 - **Languages:** Python, Java, JavaScript, HTML, and CSS
 - **Libraries:** PyTorch, Pandas, NumPy, scikit-learn, Matplotlib
-- **Tools:** Git, GitHub, Google Colab, Jupyter Notebook
+- **Tools:** VS Code, Git, GitHub, Google Colab, Jupyter Notebook
 
 ## Currently Learning
 
