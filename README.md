@@ -10,7 +10,7 @@ Built a PyTorch neural network that predicts anaemia using haemoglobin levels an
 
 ### [NFL Game Analytics](https://github.com/tanyakumar2/nfl-game-analytics)
 
-Developed a Python program that cleans and analyzes data from more than 2,600 NFL games. The program calculates team win percentages, compares team performance, identifies high-scoring games, and analyzes head-to-head records.
+Developed a Python program that cleans and analyzes data from more than 2,000 NFL games. The program calculates team win percentages, compares team performance, identifies high-scoring games, and analyzes head-to-head records.
 
 ### [Two Player Chess](https://github.com/tanyakumar2/two-player-chess)
 
